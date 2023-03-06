@@ -1,0 +1,133 @@
+Key,English,Russian,Indonesian
+claim,Claim,Получить,Mengeklaim
+close,Close,Закрыть,Menutup
+day,Day,День,Hari
+error!,Error!,Ошибка!,Kesalahan!
+error.notcoin,Coin not enough,Недостаточно монет,Koin tidak cukup
+error.session,Session Failed,Сессия прервана,Sesi gagal
+error.unknown,Unknown Error,Неизвестная ошибка,Kesalahan yang tidak diketahui
+exit,Exit,Выход,Keluar
+game.ad.adnotready,Ad is not ready,Реклама не готова,Iklan belum siap
+game.ad.errorview,Viewing the ad failed,Неудачный просмотр,Melihat iklan gagal
+game.ad.success,Successful Ad viewing,Успешный просмотр рекламы,Tampilan iklan yang sukses
+game.daily.all,Complete All,Выполнить все,Selesaikan semua
+game.daily.claim,Claim,Получить,Mengeklaim
+game.daily.claimed,Claimed,Получено,Diklaim
+game.daily.help,Don't forget to collect the reward!,Не забудьте забрать награды!,Jangan lupa untuk mengumpulkan hadiah!
+game.stats.monthrank,Monthly Rank Wins:,победы (ежемес.):,Peringkat Bulanan menang:
+game.daily.require,Requires,Требуется ,Memerlukan
+game.daily.reset,Daily quests are reset at 00:00 UTC,Ежедневные задания сбрасываются в 00:00 UTC,Pencarian harian diatur ulang pada 00:00 UTC
+game.daily.swapdiamonds,Swap Diamonds,Обмен Алмазов,Bertukar berlian
+game.daily.title,Daily Quests,Ежедн. задания,Pencarian harian
+game.daily.totalclicks,Total Clicks,Кликнуть,Total klik
+game.daily.totalwin,Win Diamonds,Выиграть алм.,Menangkan Berlian
+game.daily.vip,Vip Bonus,Вип бонус,Bonus VIP
+game.daily.windiamonds,Win {0} {0:Diamond|Diamonds},{0} {0:Алмаз|Алмаза|Алмазов},Win {0} {0:Diamond|Diamonds}
+game.endcoins.swap,Swap,Обмен,Menukar
+game.endcoins.text,Do you want to get more coins?,Вы хотите получить больше монет?,Apakah Anda ingin mendapatkan lebih banyak koin?
+game.endcoins.title,Not enough coins,Недостаточно монет,Tidak cukup koin
+game.item.coins,Coins,Монеты,Koin
+game.item.diamonds,Diamonds,Алмазы,Berlian
+game.language.english,English,English,Bahasa inggris
+game.language.indonesian,Indonesia,Indonesia,Indonesia
+game.language.russian,Russian,Русский,Rusia
+game.language.title,Language,Язык,Bahasa
+game.lv,Lv.,Ур.,Lv.
+game.main.cost,Cost: {0} <sprite=0>,Стоимость: {0} <sprite=0>,Biaya: {0} <sprite=0>
+game.main.daily,Daily,Дейлики,Sehari-hari
+game.main.game,Game,Игры,Permainan
+game.main.rank,RANK,РЕЙТИНГ,PANGKAT
+game.main.rewards,REWARDS,НАГРАДЫ,Hadiah
+game.main.stats,Stats,Ст-ка,Statistik
+game.main.totalclicks,Total clicks,Всего кликов,Total klik
+game.main.up,UP,УЛУЧШИТЬ,KE ATAS
+game.notify.adfinish,The ad is over for today,На сегодня реклама закончилась,Iklan sudah berakhir untuk hari ini
+game.notify.comingsoon,Coming soon,Откроется скоро!,Segera hadir
+game.notify.incorrectnumber,Invalid number specified,Указано некорректное число,Nomor tidak valid ditentukan
+game.rank.dailyrank,Daily Rank,Ежедн. рейтинг,Peringkat harian
+game.rank.dailytitle,Daily Rank,Ежедн. рейтинг,Peringkat harian
+game.rank.finish,Tournament finish,Турнир закончен,Turnamen selesai
+game.rank.flashtitle,Ranking Reward,Награда за рейтинг,Hadiah peringkat
+game.rank.gotreward,Received a Ranking reward,Получена награда за рейтинг,Menerima hadiah peringkat
+game.rank.monthlyrank,Monthly Rank,Ежемес. рейтинг,Peringkat bulanan
+game.rank.norank,No Rank,Нет места,Tidak ada peringkat
+game.rank.weeklyrank,Weekly Rank,Еженед. рейтинг,Peringkat mingguan
+game.rewards.help,You can get up to *your level* rewards in a single tap,Вы можете получить *ваш уровень* наград за один клик,Anda bisa mencapai *level* Anda hadiah dalam satu keran tunggal
+game.rewards.help2,"Example: 
+5 level: 1 click = 5 attempts to get a reward
+You can get multiple rewards","Пример: 
+5 уровень: 1 клик = 5 шансов получить награду
+Вы можете получить несколько наград сразу","Contoh:
+5 Level: 1 klik = 5 upaya untuk mendapatkan hadiah
+Anda bisa mendapatkan beberapa hadiah"
+game.rewards.rewards,Rewards,Награды,Hadiah
+game.settings.english,English,Английский,Bahasa inggris
+game.settings.title,Settings,Настройки,Pengaturan
+game.settings.website,Website,Сайт игры,Situs web
+game.stats.averagewin,Average Win D/C:,Алмазов за клик (ср.),Berlian untuk menekan (lih.):
+game.stats.dailyrank,Daily Rank Wins:,Победы (ежедн.):,Peringkat harian menang:
+game.stats.days,Age (days):,Дней в игре:,Usia (hari):
+game.stats.lucky,Lucky Rate:,Удача:,Tingkat keberuntungan:
+game.stats.title,Stats,Статистика,Statistik
+game.stats.totalclicks,Total clicks:,Всего кликов:,Total Klik:
+game.stats.totaldiamond,Total Diamonds Won:,Выиграно алмазов:,Total Diamonds menang:
+game.stats.weeklyrank,Weekly Rank Wins:,Победы (еженед.):,Peringkat mingguan menang:
+game.stats.winclicks,Successfull Clicks:,Выигрышных кликов:,Klik Sukses:
+game.swap.buy,Buy Coin,Покупка монет,Beli Koin
+game.swap.enter,Enter count,Введите кол-во,Masukkan hitungan
+game.swap.howmuch,How many coins do you want to buy?,Как много монет вы хотите купить?,Berapa banyak koin yang ingin Anda beli?
+game.swap.swap,Swap,Обмен,Menukar
+game.up.cost,Do you want to level up for {0}  {0:coin|coins}?,Вы хотите улучшить уровень за {0} {0:монета|монеты|монет}?,Apakah Anda ingin naik level untuk {0} koin?
+game.up.max,Max lvl,Макс. уровень,Max LVL
+game.up.maxtext,you have reached the maximum level,Вы достигли максимального уровня,Anda telah mencapai level maksimal
+game.up.uptext,Upgrade to {0} lvl,Улучшить до {0} уровня,Tingkatkan ke {0} lvl
+game.upgrade.upgrade,Upgrade,Улучшение,Meningkatkan
+load,LOAD,ЗАГРУЗКА,MEMUAT
+login.alreadyhaveacc,Already have an account?  <#34adfc><size=45>Sign in,Уже есть аккаунт?  <#34adfc><size=45>Войти,Sudah memiliki akun? <#34adfc><size=45>Masuk
+login.autosignin,Auto sign in,Автовход,Masuk otomatis
+login.clientisold,"Game client is old\nPlease, update the app","Клиент игры устарел\nПожалуйста, обновите игру","Game Client sudah lama \ nPlease, perbarui aplikasi"
+login.email,E-mail,Почта,Surel
+login.email.send,We will send code to your email,Мы отправим Вам код подтверждения,Kami akan mengirim kode ke email Anda
+login.emailcode,Verification code from e-mail,Код подтверждения с вашей почты,Kode verifikasi dari email
+login.enteremail,enter your email,Введите свою почту,Masukkan email Anda
+login.enterotp,Enter the OTP that was sent to your email,"Введите код, который был отправлен Вам на почту",Masukkan OTP yang dikirim ke email Anda
+login.failed,Login Failed,Неудачный вход,Gagal masuk
+login.forgotpass,Forgot password?,Забыли пароль?,Tidak ingat kata sandi?
+login.haveotp,Already have a code?  <#34adfc><size=45>Sign up,Есть код? <#34adfc><size=45>Регистрация,Sudah punya kode? <#34adfc><size=45>Daftar
+login.invalidlengthemail,"Invalid email length, email must contain {0} or more characters",Почта должна содержать {0} или более символов,"Panjang email tidak valid, email harus berisi {0} atau lebih karakter"
+login.invalidlengthlogin,"Invalid login length, login must contain {0} or more characters",Логин должен содержать {0} или более символов,"Panjang login tidak valid, login harus berisi {0} atau lebih karakter"
+login.invalidlengthotp,"Invalid OTP length, OTP must contain {0} characters",Длина кода должна составлять {0} символов,"Panjang OTP yang tidak valid, OTP harus berisi karakter {0}"
+login.invalidlengthpass,"Invalid password length, password must contain {0} or more characters",Пароль должен содержать {0} или более символов,"Panjang kata sandi tidak valid, kata sandi harus berisi {0} atau lebih karakter"
+login.invalidotp,Incorrect OTP,Неправильный код,OTP yang salah
+login.otpcaps,OTP,КОД,OTP
+login.password,Password,Пароль,Kata sandi
+login.rulestring,Enter numbers or latin letters,Введите числа или латинские буквы,Masukkan angka atau huruf Latin
+login.serverfailed,Server connection failed,Соединение с сервером прервано,Koneksi server gagal
+login.signin,Sign in,Войти,Masuk
+login.signup,Sign up,Регистрация,Mendaftar
+login.signupfailed,Sign Up Failed,Регистрация не удалась,Pendaftaran gagal
+login.username,Username,Никнейм,Nama belakang
+month,Month,Месяц,Bulan
+ok,Ok,Ок,Oke
+player,Player,Игрок,Pemain
+time.d,d,д,h
+time.h,h,ч,j
+time.m,m,м,m
+time.s,s,с,k
+unknown,Unknown,Неизвестно,Tidak dikenal
+vipcaps,VIP,ВИП,VIP
+week,Week,Неделя,Pekan
+login.autherror.unknown,"Unknown error, please try again later","Неизвестная ошибка, повторите попытку позже","Kesalahan yang tidak diketahui, coba lagi nanti"
+login.autherror.authlogin,Incorrect username,Неверное имя пользователя,Nama pengguna yang salah
+login.autherror.authotp,Incorrect verification code,Неверный код подтверждения,Kode verifikasi yang salah
+login.autherror.authpassword,Incorrect password,Неверный пароль,kata kunci Salah
+login.autherror.authloginregistered,Login already registered,Логин уже зарегистрирован,Masuk sudah terdaftar
+login.autherror.authemailregistered,Email already registered,Электронная почта уже зарегистрирована,Email sudah terdaftar
+login.autherror.authemailincorrect,Incorrect email,Неверный почтовый ящик,Email Salah
+login.autherror.authloginnotfound,Username not found,Имя пользователя не найдено,Nama pengguna tidak ditemukan
+login.autherror.sessionfailed,Session Failed,Сессия прервана,Sesi gagal
+login.autherror.authreferinvalid,Refer id invalid,Id реферала недействителен,Rujuk ID tidak valid
+login.autherror.authsendemailwait,"Email already sent, please wait or try again later","Письмо уже отправлено, пожалуйста, подождите или повторите попытку позже","Email sudah dikirim, harap tunggu atau coba lagi nanti"
+login.autherror.authwalletother,You have another wallet connected,У вас подключен другой кошелек,Anda memiliki dompet lain yang terhubung
+login.autherror.authwalletalreadyregister,Wallet already registered,Кошелек уже зарегистрирован,Dompet sudah terdaftar
+login.referid,"Refer Id, Example: 1","Код реферала, например 1","Rujuk Id, Contoh: 1"
