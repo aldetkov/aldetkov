@@ -32,7 +32,7 @@ namespace aldetkov.UI.Window
         {
             if (!CheckContainsWindowsKey(windowType)) return;
             
-            print($"open {windowType}");
+            Debug.Log($"open {windowType}");
             if (closeAll) CloseAll();
             else if (closePrev && _openWindows.Count != 0) CloseCurrentWindow();
 

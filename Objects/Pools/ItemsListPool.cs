@@ -47,7 +47,7 @@ namespace aldetkov.Objects.Pools
         {
             if (index >= items.Count || index < 0)
             {
-                Debug.LogError("Такого элемента нет");
+                Debug.LogError("Element not found");
                 return null;
             }
 
